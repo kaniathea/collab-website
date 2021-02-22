@@ -27,4 +27,6 @@ You can also embed plots, for example:
 plot(pressure)
 ```
 
+![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.cnn.net%2Fmoney%2Fgalleries%2F2007%2Fbiz2%2F0706%2Fgallery.product_design.biz2%2Fimages%2Ffish_car.jpg&f=1&nofb=1)
+
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
