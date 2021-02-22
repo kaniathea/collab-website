@@ -19,6 +19,8 @@ You can include R code in the document as follows:
 summary(cars)
 ```
 
+![](https://www.extremetech.com/wp-content/uploads/2019/12/SONATA-hero-option1-764A5360-edit.jpg)
+
 ## Including Plots
 
 You can also embed plots, for example:
